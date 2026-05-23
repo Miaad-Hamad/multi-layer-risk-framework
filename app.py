@@ -33,10 +33,9 @@ OPTIONS = {
 }
 
 st.title("🛡️ A Multi-Layer Risk Assessment Framework")
-st.write(
-    "A Multi-Layer Risk Assessment Framework for Mitigating Social Engineering Attacks"
-    " \n إطار متعدد الطبقات لتقييم المخاطر والحد من هجمات الهندسة الاجتماعية"
-)
+st.write("A Multi-Layer Risk Assessment Framework for Mitigating Social Engineering Attacks")
+st.write("إطار متعدد الطبقات لتقييم المخاطر والحد من هجمات الهندسة الاجتماعية")
+
 st.info("Estimated completion time: 2–3 minutes | الوقت المتوقع لإكمال التقييم: ٢–٣ دقائق")
 
 def calculate_risk_score(scores):
