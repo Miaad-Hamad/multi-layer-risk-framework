@@ -34,8 +34,8 @@ OPTIONS = {
 
 st.title("🛡️ A Multi-Layer Risk Assessment Framework")
 st.write(
-    "A framework for mitigating social engineering attacks by assessing Human, "
-    "Technical, and Organizational risk layers. | إطار متعدد الطبقات لتقييم مخاطر الهندسة الاجتماعية."
+    "A Multi-Layer Risk Assessment Framework for Mitigating Social Engineering Attacks "
+    "إطار متعدد الطبقات لتقييم المخاطر والحد من هجمات الهندسة الاجتماعية"
 )
 st.info("Estimated completion time: 2–3 minutes | الوقت المتوقع لإكمال التقييم: ٢–٣ دقائق")
 
